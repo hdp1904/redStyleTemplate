@@ -41,4 +41,4 @@ Defines styles for the main content area, including padding and background image
 
 Styles for the footer, including link colors and text alignment.
 
-The webpage link is https://hdp1904.github.io/layout3/
+The webpage link is https://hdp1904.github.io/redStyleTemplate/
